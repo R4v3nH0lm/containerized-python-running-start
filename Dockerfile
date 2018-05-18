@@ -22,3 +22,4 @@ WORKDIR /python_app/
 # Usage:
 # docker build . -t <container name>:<version>
 # docker run --rm -it <container name>:<version> /bin/bash
+# python python_app.py
